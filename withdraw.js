@@ -24,3 +24,4 @@ document.getElementById('btn-withdraw').addEventListener('click',function(){
     currentBalance.innerText = parseFloat(currentBalance.innerText) - parseFloat(currentWithdraw)
 
 })
+
